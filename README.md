@@ -1,8 +1,6 @@
 # Credit-Card-Transaction-Customer-Analytics-Dashboard
 Interactive Power BI project featuring two analytical dashboards and a customer details page to explore credit card transactions, revenue performance, customer demographics, and spending patterns.
 
-# Credit Card Transaction & Customer Analytics Dashboard
-
 ## 📌 Overview
 
 An interactive Power BI project designed to analyze credit card transactions and customer-level information through business-focused dashboards and detailed customer analysis.
